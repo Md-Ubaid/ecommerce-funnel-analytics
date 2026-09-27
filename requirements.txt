@@ -1,0 +1,24 @@
+# Data manipulation
+pandas
+numpy
+
+# Database
+sqlalchemy
+psycopg2-binary   # remove if using SQLite only
+
+# Machine learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Forecasting (used in Project 2, install now to keep env consistent)
+prophet==1.1.5          # uncomment when needed
+
+# Utilities
+python-dotenv
+jupyterlab
+openpyxl
